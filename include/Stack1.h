@@ -1,4 +1,4 @@
-// Copyright 2020 <telsamar>
+// Copyright 2020 <katiaashka1>
 
 #ifndef TEMPLATE1_STACK1_H
 #define TEMPLATE1_STACK1_H
